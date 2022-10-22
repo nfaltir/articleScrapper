@@ -64,4 +64,4 @@ The app might break based on the packages you are currently running on your loca
 
 ## Live Site
 
-[Visit App](https://google.com)
+[Visit App](https://nfaltir-articlescrapper-app-wxvfpl.streamlitapp.com/)
