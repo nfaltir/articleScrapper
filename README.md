@@ -1,5 +1,5 @@
 
-## App Description
+## App Description 🦀
 
 This is a simple web app built with streamlit and some basic css to generate an article output from a url. 
 
